@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: "OpenSans";
+        src: url('../fonts/OpenSans.ttf');
+    }
+    @font-face {
+        font-family: "Jost";
+        src: url('../fonts/Jost.ttf');
+    }
+}
+
