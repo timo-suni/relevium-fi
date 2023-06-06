@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import juho from '@/assets/images/juho.png'
+import juho from '@assets/images/juho.png'
 
 function Home() {
   return (

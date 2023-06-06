@@ -1,14 +1,14 @@
 import Image from 'next/image'
 import React from 'react'
 import Link from 'next/link'
-import k1 from '@/assets/images/k1.png'
-import k2 from '@/assets/images/k2.png'
-import k3 from '@/assets/images/k3.png'
-import k4 from '@/assets/images/k4.png'
-import k5 from '@/assets/images/k5.png'
-import k6 from '@/assets/images/k6.png'
-import k7 from '@/assets/images/k7.png'
-import k8 from '@/assets/images/k8.png'
+import k1 from '@images/k1.png'
+import k2 from '@images/k2.png'
+import k3 from '@images/k3.png'
+import k4 from '@images/k4.png'
+import k5 from '@images/k5.png'
+import k6 from '@images/k6.png'
+import k7 from '@images/k7.png'
+import k8 from '@images/k8.png'
 
 function Home() {
   return (
