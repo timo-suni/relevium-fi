@@ -16,23 +16,23 @@ function Home() {
     <div className="text-center lg:text-left">
 
         <div className="max-w-full grid justify-items-center gap-y-6 items-center">
-            <h1 className="text-4xl text-neutral-200 font-bold lg:col-span-4">Ota yhteyttä</h1>
+            <h1 className="text-4xl text-neutral-200 font-semibold lg:col-span-4">Ota yhteyttä</h1>
 
             <div className="text-left text-neutral-200 lg:col-span-2">
-                <h2 className="font-bold">RELEVIUM</h2>
+                <h2 className="font-semibold">RELEVIUM</h2>
                 <p>
                   Y-tunnus: 3193558-9 <br />
                   Koulutettu hieroja Juho Heikkilä
                 </p>
-                <h2 className="font-bold mt-3">Osoite</h2>
+                <h2 className="font-semibold mt-3">Osoite</h2>
                 <p>
                 Vesijärvenkatu 52 A 4   15140 LAHTI
                 </p>
-                <h2 className="font-bold mt-3">Puhelin & WhatsApp</h2>
+                <h2 className="font-semibold mt-3">Puhelin & WhatsApp</h2>
                 <p>
                   <Link target="_blank" className="underline" href={"https://wa.me/358408472461"}>040 847 2461</Link>
                 </p>
-                <h2 className="font-bold mt-3">Sähköposti</h2>
+                <h2 className="font-semibold mt-3">Sähköposti</h2>
                 <p>
                   <Link target="_blank" className="underline" href={"mailto: juho@relevium.fi"}>juho@relevium.fi</Link>
                 </p>

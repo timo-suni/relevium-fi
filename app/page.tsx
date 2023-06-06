@@ -7,7 +7,7 @@ function Home() {
     <div className="bg-neutral-800 py-4 px-4 lg:px-8 rounded">
       <div className="text-center lg:text-left">
           <div className="max-w-4xl grid justify-items-center gap-y-6 items-center lg:max-w-full lg:grid-cols-4">
-              <h1 className="text-4xl text-neutral-200 font-bold lg:col-span-4">Tervetuloa Releviumin verkkosivuille!</h1>
+              <h1 className="text-4xl text-neutral-200 font-semibold lg:col-span-4">Tervetuloa Releviumin verkkosivuille!</h1>
               <Image src={juho} alt="Juho" width={230} height={220} className="rounded-lg shadow-2xl lg:col-span-1" />
               <div className="lg:pl-4 text-neutral-300 lg:col-span-3">
                   <p className='mb-4'>Olen Juho Heikkilä, 29-vuotias koulutettu hieroja Lahdesta. Valmistuin vuonna 2020 Lahden Hierojakoulusta ja valmistumiseni jälkeen päätin ryhtyä ammatinharjoittajaksi. Kiinnostukseni alaa kohtaan kasvaa jatkuvasti ja opiskelenkin osteopatiaa Ortopedisen Osteopatian Koulutuskeskuksessa.</p>
