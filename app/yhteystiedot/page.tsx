@@ -1,7 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
 import Link from 'next/link'
-import juho from '@/assets/images/juho.png'
 import k1 from '@/assets/images/k1.png'
 import k2 from '@/assets/images/k2.png'
 import k3 from '@/assets/images/k3.png'
