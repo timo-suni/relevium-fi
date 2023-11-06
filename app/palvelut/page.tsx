@@ -67,14 +67,17 @@ function Home() {
 				</div>
             </div>
             <div className="col-span-4 h-max bg-neutral-200 justify-items-center items-center rounded-xl p-6 w-full">
-				<h1 className="text-neutral-800 text-left text-2xl font-semibold mb-4">Koti- ja työpaikkakäynnit</h1>
+				<h1 className="text-neutral-800 text-left text-2xl font-semibold mb-4">Koti- ja yrityskäynnit</h1>
                 <div className="flex justify-center flex-col text-left">
                     <p className="text-neutral-800 mb-2">
 					Tarjoan joustavasti hierontapalveluja myös suoraan kotiisi tai työpaikallesi Lahden keskustasta 15 kilometrin säteellä. Tämä palvelu on ihanteellinen sinulle, jos arvostat aikasi tehokasta käyttöä tai haluat nauttia hieronnan rentouttavista vaikutuksista omassa tutussa ympäristössäsi.
 					</p>
 					<p className="text-neutral-800 mb-2">
-					Koti- ja työpaikkakäyntien hintaan lisätään 15 euron matkakustannuslisä.
+					Kotikäyntien hintaan lisätään 15 euron matkakustannuslisä. 
 					</p>
+                    <p className="text-neutral-800 mb-2">
+                    Yrityskäyntien hinnasto sovitaan tapauskohtaisesti.
+                    </p>
 					<p className="text-neutral-800">
 					Jos koti- tai työpaikkakäynnistä on kysyttävää tai haluat varata ajan, ota rohkeasti yhteyttä.
 					</p>
