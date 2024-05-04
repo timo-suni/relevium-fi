@@ -26,7 +26,7 @@ function Home() {
                 </p>
                 <h2 className="font-semibold mt-3">Osoite</h2>
                 <p>
-                Proomukatu 8 A25   15140 LAHTI
+                Proomukatu 8 A25 15140 LAHTI
                 </p>
                 <h2 className="font-semibold mt-3">Puhelin & WhatsApp</h2>
                 <p>
